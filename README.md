@@ -1,12 +1,18 @@
 # 3D DriveWay 🚗✨
 
+![image](image-1.png)
+
 ## Links
 
 Live Site URL: [Preview](https://677ca8114c89e56f136cbe41--meek-raindrop-96c500.netlify.app/)
 
+<br>
+
 ## Overview
 
 **3D DriveWay** - an interactive web-based 3D experience built using **React Three Fiber** and **Three.js**, designed to showcase a sleek car model in a vibrant, dynamic environment. This project includes realistic lighting, reflective surfaces, glowing neon rings, immersive particle effects, and cinematic post-processing like GodRays and Bloom.
+
+<br>
 
 ## Tech Stack
 
@@ -15,12 +21,16 @@ Live Site URL: [Preview](https://677ca8114c89e56f136cbe41--meek-raindrop-96c500.
 - **Post-Processing**: [Postprocessing Library](https://github.com/vanruesc/postprocessing)
 - **UI Framework**: [React](https://reactjs.org/)
 
+<br>
+
 ## Features
 
 - Realistic 3D car model with detailed textures and reflective materials.
 - Neon glowing rings with dynamic color transitions.
 - Cinematic post-processing effects, including **Bloom**, **Chromatic Aberration**, **Vignette**, and **GodRays**.
 - Animated particle system and interactive environment.
+
+<br>
 
 ## Installation 🖥️
 
@@ -50,9 +60,14 @@ Follow these steps to set up the project locally:
    npm start
    ```
 
-5. Open http://localhost:3000 in your browser to view the project.
+5. Open below link in your browser to view the project.
+   ```bash
+   http://localhost:3000 
+   ```
+
 
 <br>
+
 ## How It Works
 
 - The **3D car model** is loaded using `GLTFLoader` from the `three/examples` module.
@@ -60,3 +75,10 @@ Follow these steps to set up the project locally:
 - The **ground plane** includes a realistic reflective surface with custom textures.
 - **Neon rings** and **particles** are dynamically animated to enhance the interactive experience.
 - **Orbit controls** allow for smooth rotation and exploration of the 3D environment.
+
+<br>
+
+## License
+
+This project is open-source and available for anyone to explore, learn from, and contribute to.
+Feel free to customize the content and structure according to your preferences. <br><br> Happy coding! 😊
